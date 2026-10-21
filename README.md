@@ -93,6 +93,8 @@ The application allows users to enter customer details and obtain:
 
 The saved model, preprocessing pipeline, and threshold are loaded from `models/churn_model.pkl`.
 
+🚀 **[Try the Live Demo](https://customer-churn-ml-predictor.streamlit.app/)**
+
 ## Run Locally
 
 ### 1. Clone the repository
